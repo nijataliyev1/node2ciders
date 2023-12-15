@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Ətir",
+        "price": 700,
+        "amount": 10
+    },
+    {
+        "id": 2,
+        "name": "Köynək",
+        "price": 70,
+        "amount": 50
+    },
+    {
+        "id": 3,
+        "name": "Saat",
+        "price": 20000,
+        "amount": 3
+    },
+    {
+        "id": 4,
+        "name": "Şərf",
+        "price": 2,
+        "amount": 500
+    },
+    {
+        "id": 5,
+        "name": "Palto",
+        "price": 100,
+        "amount": 40
+    },
+    {
+        "id": 6,
+        "name": "Qələm",
+        "price": 0.1,
+        "amount": 2500
+    },
+    {
+        "id": 7,
+        "name": "Mouse",
+        "price": 50,
+        "amount": 200
+    },
+    {
+        "id": 8,
+        "name": "Gözlük",
+        "price": 18,
+        "amount": 45
+    },
+    {
+        "id": 9,
+        "name": "Mercedes S class",
+        "price": 120000,
+        "amount": 2
+    },
+    {
+        "id": 10,
+        "name": "Çörək",
+        "price": 0.55,
+        "amount": 35
+    }
+]
